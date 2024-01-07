@@ -1,6 +1,4 @@
-# Elysia Simple
-
-## Elysia with Bun runtime
+# Elysia with Bun runtime Simple
 
 ## Development
 To start the development server run:
